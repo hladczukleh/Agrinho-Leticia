@@ -5,9 +5,11 @@ padding: 0;
 }
 /* setup das variaveis*/
 :root {
---verde-fundo: #3fa884;
+--verde-fundo: #9ffddc;
 --branco-principal: #000000;
---fonte-principal: "Lustria";
+--fonte-principal: "<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">";
 --verde-principal: #5fb13b;
 --azul-principal: #0169b4;
 --verde-secundario: #313a22;
