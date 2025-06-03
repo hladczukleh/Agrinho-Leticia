@@ -5,8 +5,8 @@ padding: 0;
 }
 /* setup das variaveis*/
 :root {
---verde-fundo: #deece7;
---branco-principal: #ffffff;
+--verde-fundo: #3fa884;
+--branco-principal: #000000;
 --fonte-principal: "Lustria";
 --verde-principal: #5fb13b;
 --azul-principal: #0169b4;
